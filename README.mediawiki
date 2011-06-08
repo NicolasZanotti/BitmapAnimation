@@ -1,7 +1,0 @@
-==Usage==
-Simply pass a MovieClip to the draw method.
-<code>
-bitmapAnimation = new BitmapAnimation();
-bitmapAnimation.draw(movieClip);
-addChild(bitmapAnimation);
-</code>
